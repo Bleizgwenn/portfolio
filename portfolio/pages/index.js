@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export default function Home() {
     return (
-        <div className={`h-[100vh] w-[100vw] bg-black flex text-white items-center justify-center p-4 overflow-hidden`}>
+        <div className={`min-h-[100vh] min-w-[100vw] bg-black flex text-white items-center justify-center overflow-hidden`}>
 
             <Head>
 
@@ -16,29 +16,29 @@ export default function Home() {
 
                 <p className='text-[#C6C100]'>&#123;</p>
                 
-                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>"Identité"</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Identité&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"Prénom"</span><span>:</span><span className='text-[#B26D50]'>"Lucas"</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Prénom&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Lucas&quot;</span><span>,</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"Sexe"</span><span>:</span><span className='text-[#B26D50]'>"Masculin"</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Sexe&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Masculin&quot;</span><span>,</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"Nationalité"</span><span>:</span><span className='text-[#B26D50]'>"Française"</span><span>,</span></p>
-
-                    <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
-
-                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>"Description"</span><span>:</span><span className='text-[#B26D50]'>"Entreprenant, travailleur, de solides capacités d'apprentissage"</span><span>,</span></p>
-                
-                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>"Contact"</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
-
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"E-mail"</span><span>:</span><span className='text-[#B26D50]'>"<a className='underline' href='mailto:lucasbriandbr@proton.me'>lucasbrianbdr@proton.me</a>"</span><span>,</span></p>
-
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"Téléphone"</span><span>:</span><span className='text-[#B26D50]'>"<a className='underline' href='tel:+33750068971'>+33 7 50 06 89 71</a>"</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Nationalité&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Française&quot;</span><span>,</span></p>
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
-                
-                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>"Travaux"</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>"Bootook"</span><span>:</span><span className='text-[#B26D50]'>"<a className='underline' href='https://www.bootook.com/'>https://www.bootook.com/</a>"</span><span>,</span></p>
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Description&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Entreprenant, travailleur, de solides capacités d'apprentissage&quot;</span><span>,</span></p>
+                
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Contact&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;E-mail&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='mailto:lucasbriandbr@proton.me'>lucasbrianbdr@proton.me</a>&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Téléphone&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='tel:+33750068971'>+33 7 50 06 89 71</a>&quot;</span><span>,</span></p>
+
+                    <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
+                
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Travaux&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Bootook&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://www.bootook.com/'>https://www.bootook.com/</a>&quot;</span><span>,</span></p>
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
 
