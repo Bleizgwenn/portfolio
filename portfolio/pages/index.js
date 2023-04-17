@@ -34,6 +34,8 @@ export default function Home() {
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Téléphone&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='tel:+33750068971'>+33 7 50 06 89 71</a>&quot;</span><span>,</span></p>
 
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Github&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr'>https://github.com/lucasbriandbr</a>&quot;</span><span>,</span></p>
+
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
                 
                     <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Travaux&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
@@ -41,6 +43,8 @@ export default function Home() {
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Bootook&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://www.bootook.com/'>https://www.bootook.com/</a>&quot;</span><span>,</span></p>
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Portfolio&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://www.lucasbriand.me/'>https://www.lucasbriand.me/</a>&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;AndromedaMechs&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/Gamedev'>https://www.andromedamechs.com/</a>&quot;</span><span>,</span></p>
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
 
