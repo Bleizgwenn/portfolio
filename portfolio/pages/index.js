@@ -26,7 +26,7 @@ export default function Home() {
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
 
-                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Description&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Entreprenant, travailleur, de solides capacités d'apprentissage&quot;</span><span>,</span></p>
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Description&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Entreprenant, travailleur, de solides capacités d&apos;apprentissage&quot;</span><span>,</span></p>
                 
                     <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Contact&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
 
