@@ -50,7 +50,7 @@ export default function Home() {
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;GPT-3 Telegram Bot&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/OpenAI-Telegram-Bot'>https://github.com/lucasbriandbr/OpenAI-Telegram-Bot</a>&quot;</span><span>,</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;GPT-3 Telegram Bot&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/OpenAI-Telegram-Bot'>https://github.com/lucasbriandbr/OpenAI-Telegram-Bot</a>&quot;</span><span>,</span></p>
+                        {/* <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;GPT-3 Telegram Bot&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/OpenAI-Telegram-Bot'>https://github.com/lucasbriandbr/OpenAI-Telegram-Bot</a>&quot;</span><span>,</span></p> */}
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
 
