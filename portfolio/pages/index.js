@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export default function Home() {
     return (
-        <div className={`min-h-[100vh] min-w-[100vw] bg-black flex text-white items-center justify-center overflow-hidden`}>
+        <div className={`min-h-[100vh] min-w-[100vw] bg-black flex text-white items-center justify-center overflow-x-hidden overflow-y-scroll whitespace-normal`}>
 
             <Head>
 
@@ -12,7 +12,7 @@ export default function Home() {
                 
             </Head>
 
-            <section>
+            <section className='max-w-[80vw] overflow-hidden'>
 
                 <p className='text-[#C6C100]'>&#123;</p>
                 
