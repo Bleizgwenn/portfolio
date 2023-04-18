@@ -44,7 +44,13 @@ export default function Home() {
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Portfolio&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://www.lucasbriand.me/'>https://www.lucasbriand.me/</a>&quot;</span><span>,</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Andromeda Mechs&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/Gamedev'>https://www.andromedamechs.com/</a>&quot;</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Andromeda Mechs&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/P2E-SOL/tree/main/webapp'>https://www.andromedamechs.com/</a>&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Cruses&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/Cruses'>https://www.cruses.com/</a>&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;GPT-3 Telegram Bot&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/OpenAI-Telegram-Bot'>https://github.com/lucasbriandbr/OpenAI-Telegram-Bot</a>&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;GPT-3 Telegram Bot&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://github.com/lucasbriandbr/OpenAI-Telegram-Bot'>https://github.com/lucasbriandbr/OpenAI-Telegram-Bot</a>&quot;</span><span>,</span></p>
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
 
