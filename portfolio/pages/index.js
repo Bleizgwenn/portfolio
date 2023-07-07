@@ -40,7 +40,7 @@ export default function Home() {
                 
                     <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Diplômes&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Baccalauréat&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Scientifque, Physique-Chimie, Mathématiques, Sciences de l'Ingénieur; option Mathématiques Expertes&quot;</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Baccalauréat&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Scientifque, Physique-Chimie, Mathématiques, Sciences de l&apos;Ingénieur; option Mathématiques Expertes&quot;</span><span>,</span></p>
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;BTS&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;SIO (Service Informatique aux Organisations)&quot;</span><span>,</span></p>
 
