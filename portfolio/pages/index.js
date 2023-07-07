@@ -38,6 +38,22 @@ export default function Home() {
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
                 
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Diplômes&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Baccalauréat&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Scientifque, Physique-Chimie, Mathématiques, Sciences de l'Ingénieur; option Mathématiques Expertes&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;BTS&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;SIO (Service Informatique aux Organisations)&quot;</span><span>,</span></p>
+
+                    <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
+                
+                    <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Expériences&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Cruisetech SARL&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Développeur Apprenti chez Cruiseline SAM Monaco, première société de vente de croisières en ligne pour une durée de deux ans&quot;</span><span>,</span></p>
+
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Mc Donald's&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Equipier polyvalent pour un an sur Nice&quot;</span><span>,</span></p>
+
+                    <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
+                
                     <p className='px-4 flex gap-4'><span className='text-[#99BB77]'>&quot;Travaux&quot;</span><span>:</span><span className='text-[#C468C9]'>&#123;</span></p>
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Bootook&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;<a className='underline' href='https://www.bootook.com/'>https://www.bootook.com/</a>&quot;</span><span>,</span></p>
