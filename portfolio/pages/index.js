@@ -50,7 +50,7 @@ export default function Home() {
 
                         <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Cruisetech SARL&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Développeur Apprenti chez Cruiseline SAM Monaco, première société de vente de croisières en ligne pour une durée de deux ans&quot;</span><span>,</span></p>
 
-                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Mc Donald's&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Equipier polyvalent pour un an sur Nice&quot;</span><span>,</span></p>
+                        <p className='px-8 flex gap-4'><span className='text-[#99BB77]'>&quot;Mc Donald&apos;s&quot;</span><span>:</span><span className='text-[#B26D50]'>&quot;Equipier polyvalent pour un an sur Nice&quot;</span><span>,</span></p>
 
                     <p className='px-4 flex gap-4'><span className='text-[#C468C9]'>&#125;</span><span>,</span></p>
                 
